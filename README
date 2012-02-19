@@ -1,0 +1,28 @@
+ENGLISH:
+
+BUILD INSTRUCTIONS
+To compile the project open a shell, reach the project's directory and type:
+	make
+
+RUN INSTRUCTIONS
+To run the application type in the shell the command:
+	webserver <host> <port> <base_folder>
+
+TEST INSTRUCTIONS
+To test the application use any browser or TELNET commands.
+
+      ************************************************************
+
+ITALIANO:
+
+ISTRUZIONI DI COMPILAZIONE
+Per compilare il progetto aprite una shell, raggiungete la directory in cui si trova il progetto e digitate:
+	make
+
+ISTRUZIONI DI ESECUZIONE
+Per eseguire l'applicazione digitate nella shell il comando:
+	webserver <host> <porta> <cartella_base>
+
+ISTRUZIONI DI TEST
+Per testare l'applicazione usate qualsiasi browser o comandi TELNET.
+
